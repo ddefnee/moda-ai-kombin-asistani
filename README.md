@@ -19,9 +19,9 @@ Groq LLM üzerinden kişiselleştirilmiş kıyafet kombini öneren bir Streamlit
 ## 🎯 Proje Hakkında
 
 DAPHNE, e-ticarette alışveriş yaparken yaşanan **"karar verme felci"** problemini çözmeyi
-hedefleyen bir bitirme projesidir. Geleneksel renk/beden/marka filtreleriyle arama yapmak
-yerine kullanıcı "*toplantım var, şık bir kombin öner*" gibi doğal bir cümle yazar; sistem
-bunu anlamlandırıp gerçek ürünlerden oluşan bir kombin önerir.
+hedefler. Geleneksel renk/beden/marka filtreleriyle arama yapmak yerine kullanıcı
+"*toplantım var, şık bir kombin öner*" gibi doğal bir cümle yazar; sistem bunu anlamlandırıp
+gerçek ürünlerden oluşan bir kombin önerir.
 
 | Geleneksel e-ticaret araması | DAPHNE |
 |---|---|
@@ -138,11 +138,3 @@ yazman ya da kenar çubuğundaki hazır önerilerden birini seçmen yeterli.
 - [`docs/Sistem_Analizi_ve_Tasarimi.docx`](docs/Sistem_Analizi_ve_Tasarimi.docx) — problem
   tanımı, paydaş/kullanıcı görüşmeleri, rakip analizi, mimari kararlar (API-First /
   mikroservis yaklaşımı), risk yönetimi ve SCRUM yol haritası.
-
----
-
-<div align="center">
-
-*220710071 — Bitirme Projesi*
-
-</div>
